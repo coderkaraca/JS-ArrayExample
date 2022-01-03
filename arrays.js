@@ -15,7 +15,7 @@
         <input type="submit" value="Dizi Ekle">
     </form>
     <script type="text/javascript" name="javasccript">
-        let dizi = []; // Oluşturduğumuz dizi, eklenecek indekslerin devam etmesi için fonksiyon dışında olmalı.
+        let dizi = []; // Oluşturduğumuz dizi, eklenecek olan indekslerin devam etmesi için fonksiyon dışında olmalı.
 
         function deneme() {
             dizilistesi = document.getElementById('ekle').value; // ekle ID'li input bölümüne ulaşıyoruz.
