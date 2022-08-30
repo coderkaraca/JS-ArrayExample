@@ -19,7 +19,7 @@
 
         function deneme() {
             dizilistesi = document.getElementById('ekle').value; // ekle ID'li input bölümüne ulaşıyoruz.
-            dizi.push(dizilistesi); // Dizilistesine girilen indeks değeri dizi içerisine dahil edilir.
+            dizi.push(dizilistesi); // Dizi listesine girilen indeks değeri dizi içerisine dahil edilir.
             console.log(dizi); // Dizi içeriğini console sayfasından anlık izleyebiliriz.
             return false; // Gönderimi durdur.
         }
