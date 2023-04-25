@@ -5,7 +5,6 @@
     <meta charset="UTF-8">
     <meta name="author" content="Gökhan Karaca">
     <title>JAVASCRİPT</title>
-
 </head>
 
 <body>
